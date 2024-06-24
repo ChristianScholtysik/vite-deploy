@@ -9,4 +9,4 @@ function addNumbers(number1: number, number2: number) {
 console.log(addNumbers(8, 4));
 
 const superCodeKebab = lodash.kebabCase("HALLO SUPERCODE");
-console.log(superCodeKebab);
+console.log("Supercode says: ", superCodeKebab);
