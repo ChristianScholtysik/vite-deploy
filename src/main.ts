@@ -1,5 +1,5 @@
 import "./style.css";
-import lodash from "lodash";
+import * as lodash from "lodash";
 
 function addNumbers(number1: number, number2: number) {
   const result = number1 + number2;
